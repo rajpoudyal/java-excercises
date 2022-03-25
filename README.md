@@ -1,4 +1,4 @@
-# java-excercises
+# My Java Day Wise Assignments
 
 ### March 26, 2022
 
